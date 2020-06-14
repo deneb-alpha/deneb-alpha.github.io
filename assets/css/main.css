@@ -177,7 +177,7 @@ img {
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
   height: 2.5rem;
 }
-.navbar-custom .nav li a:focus {
+.navbar-custom .nav-li a:focus {
   color: #35b9ab;
 }
 
