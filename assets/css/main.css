@@ -897,7 +897,12 @@ pre {
 
 .tag-btn {
   margin: 0.3125rem;
-  color: #173f4f;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #35b9ab;
+    border-color: #35blab;
 }
 
 #full-tags-list {
