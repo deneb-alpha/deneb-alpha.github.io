@@ -217,7 +217,7 @@ img {
 }
 
 .navbar-custom .navbar-toggler[aria-expanded="true"] {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(115, 186, 37, 0.2);
 }
 
 .dropdown-toggle::after {
