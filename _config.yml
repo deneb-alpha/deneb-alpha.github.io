@@ -85,6 +85,7 @@ excerpt_length: 50
 navbar-col: "#173f4f"
 navbar-text-col: "#73ba25"
 navbar-border-col: "#173f4f"
+dropdown-text-col: "#73ba25"
 page-col: "#FFFFFF"
 link-col: "#73ba25"
 hover-col: "#21a4df"

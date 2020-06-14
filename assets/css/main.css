@@ -185,7 +185,6 @@ img {
 .navbar-custom .navbar-nav .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-item:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
-  font-color: {{ site.dropdown-text-col | default: "##404040"}}
 }
 
 .navbar-custom .navbar-nav .nav-item {
@@ -218,7 +217,7 @@ img {
 }
 
 .navbar-custom .navbar-toggler[aria-expanded="true"] {
-  background-color: rgba(115, 186, 37, 0.2);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 .dropdown-toggle::after {
@@ -273,6 +272,7 @@ img {
   white-space: normal;
   padding: 0.625rem;
   background-color: {{ site.navbar-col | default: "#F5F5F5" }};
+  color: "#73ba25"
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
