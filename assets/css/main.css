@@ -177,6 +177,9 @@ img {
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
   height: 2.5rem;
 }
+.navbar-custom .nav li a {
+  color: #35b9ab;
+}
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
@@ -272,9 +275,7 @@ img {
   white-space: normal;
   padding: 0.625rem;
   background-color: {{ site.navbar-col | default: "#F5F5F5" }};
-  text-decoration-color: "#73ba25"
-/*# color: "#73ba25"
-  text-decoration: none !important;*/
+  text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
