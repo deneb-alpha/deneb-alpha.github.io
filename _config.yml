@@ -203,7 +203,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-
+  - assets/css/main-orig.css
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
