@@ -10,11 +10,7 @@ subtitle: Something more about me
 
 
 
-Hello world! I'm Marina. :) This is my new experimental blog where you will find my personal comments about <a title="LibreOffice" href="https://www.libreoffice.org">LibreOffice</a>, 
-
-<a title="LibreItalia" href="https://www.libreitalia.it">LibreItalia</a>, <a title="openSUSE" 
-
-href="https://www.openSUSE.org">openSUSE</a> and much more.
+Hello world! I'm Marina. :) This is my new experimental blog where you will find my personal comments about <a title="LibreOffice" href="https://www.libreoffice.org">LibreOffice</a>, <a title="LibreItalia" href="https://www.libreitalia.it">LibreItalia</a>, <a title="openSUSE" href="https://www.openSUSE.org">openSUSE</a> and much more.
 
 
 
