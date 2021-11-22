@@ -2,7 +2,7 @@
 layout: post
 title: A new domain
 date: '2020-06-14 23:40:40'
-tags: [aboutme, domanin, latini]
+tags: [aboutme, domain, latini]
 ---
 After a long silence it seems finally the proper time for refreshing the blog.
 
